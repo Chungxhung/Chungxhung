@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chungxhung
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello
+
+- Mail : loveiesschung98@gmail.com
+
+stack
 
 <!---
 Chungxhung/Chungxhung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
